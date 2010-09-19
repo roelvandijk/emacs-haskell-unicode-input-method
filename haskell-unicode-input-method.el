@@ -10,7 +10,7 @@
 Designed to be used with the Haskell UnicodeSyntax language
 extension in combination with the x-unicode-symbols set of
 packages (base-unicode-symbols and containers-unicode-symbols).
-" nil t nil nil nil nil nil nil nil nil t)
+" nil nil nil nil nil nil nil nil nil nil t)
 
 (quail-define-rules
  ;; Greek letters
