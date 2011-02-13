@@ -34,6 +34,7 @@
 ;; ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
 ;; OF THE POSSIBILITY OF SUCH DAMAGE.
 
+(provide 'haskell-unicode-input-method)
 (require 'quail)
 
 (quail-define-package
