@@ -1,6 +1,6 @@
 ;; Haskell Unicode helper functions
 ;;
-;; Copyright © 2010 Roel van Dijk
+;; Copyright © 2010—2011 Roel van Dijk
 ;;
 ;; All rights reserved.
 ;;
