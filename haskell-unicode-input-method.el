@@ -262,4 +262,8 @@ packages (base-unicode-symbols and containers-unicode-symbols).
  ("^7 "              ["⁷"])
  ("^8 "              ["⁸"])
  ("^9 "              ["⁹"])
+
+ ;; Braces
+ ("[|"               ["〚"])
+ ("|]"               ["〛"])
 )
