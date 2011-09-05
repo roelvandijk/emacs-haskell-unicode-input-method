@@ -243,7 +243,7 @@ packages (base-unicode-symbols and containers-unicode-symbols).
  ;; ("++"               ["⧺"])
  ;; ("+++"              ["⧻"])
  ;; ("|||"              ["⫴"])
- ("empty"            ["∅"])
+ ;; ("empty"            ["∅"])
  ("elem"             ["∈"])
  ("notElem"          ["∉"])
  ("member"           ["∈"])
@@ -261,7 +261,7 @@ packages (base-unicode-symbols and containers-unicode-symbols).
  ("<|"               ["⊲"])
  ("|>"               ["⊳"])
  ("><"               ["⋈"])
- ("mempty"           ["∅"])
+ ;; ("mempty"           ["∅"])
  ("mappend"          ["⊕"])
  ;; ("<*>"              ["⊛"])
  (" . "              [" ∘ "])
@@ -270,6 +270,7 @@ packages (base-unicode-symbols and containers-unicode-symbols).
  ("=:"               ["≕"])
  ("=def"             ["≝"])
  ("=?"               ["≟"])
+ ("..."              ["…"])
 
  ;; Braces
  ;; ("[|"               ["〚"])
